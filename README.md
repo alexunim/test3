@@ -11,12 +11,12 @@ Este repositorio corresponde a la propuesta comercial del proyecto **Eclipse Bog
 ## Estructura del repositorio
 La carpeta principal contiene las siguientes rutas:
 
-ProyectoDiseñoAlgoritmos/
+**ProyectoDiseñoAlgoritmos/**
 
-- **Inicio/** → contiene la propuesta comercial del proyecto.  
-- **Planeacion/** → (Carpeta vacía) 
-- **Monitoreo/** → (Carpeta vacía)  
-- **Ejecucion/** → (Carpeta vacía) 
-- **Cierre/** → (Carpeta vacía)  
+	**Inicio/** → contiene la propuesta comercial del proyecto.  
+	**Planeacion/** → (Carpeta vacía) 
+	**Monitoreo/** → (Carpeta vacía)  
+	**Ejecucion/** → (Carpeta vacía) 
+	**Cierre/** → (Carpeta vacía)  
 
 ---

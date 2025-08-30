@@ -13,10 +13,10 @@ La carpeta principal contiene las siguientes rutas:
 
 **ProyectoDiseñoAlgoritmos/**
 
-	**Inicio/** → contiene la propuesta comercial del proyecto.  
-	**Planeacion/** → (Carpeta vacía) 
-	**Monitoreo/** → (Carpeta vacía)  
-	**Ejecucion/** → (Carpeta vacía) 
-	**Cierre/** → (Carpeta vacía)  
+**Inicio/** → contiene la propuesta comercial del proyecto.  
+**Planeacion/** → (Carpeta vacía) 
+**Monitoreo/** → (Carpeta vacía)  
+**Ejecucion/** → (Carpeta vacía) 
+**Cierre/** → (Carpeta vacía)  
 
 ---
